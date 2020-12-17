@@ -1,0 +1,660 @@
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.dll.config
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.pdb
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.exe
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.exe.config
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.rsp
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.exe
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.exe.config
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.rsp
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Console.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.exe
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.exe.config
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.rsp
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Antlr3.Runtime.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Newtonsoft.Json.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Owin.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Helpers.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Mvc.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Optimization.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Razor.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\WebGrease.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Helpers.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Mvc.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Optimization.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.Razor.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Newtonsoft.Json.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csprojAssemblyReference.cache
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.CoreCompileInputs.cache
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.CopyComplete
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.pdb
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.Migrations.Initialize_database.resources
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.GenerateResource.cache
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\netstandard.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.AppContext.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Collections.Concurrent.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Collections.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Collections.NonGeneric.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Collections.Specialized.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Console.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Data.Common.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Contracts.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Debug.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Process.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Tools.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Tracing.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Drawing.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Dynamic.Runtime.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.Calendars.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.Extensions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.Compression.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.IsolatedStorage.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.Pipes.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Linq.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Expressions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Parallel.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Queryable.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.Http.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.NameResolution.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.NetworkInformation.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.Ping.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.Requests.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.Security.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.Sockets.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebSockets.Client.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebSockets.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.ObjectModel.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.Extensions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Resources.Reader.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Resources.ResourceManager.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Resources.Writer.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Extensions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Handles.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.InteropServices.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Numerics.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Claims.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.Principal.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Security.SecureString.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Text.Encoding.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Text.RegularExpressions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Overlapped.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Thread.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.ThreadPool.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Timer.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.ValueTuple.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Xml.ReaderWriter.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XDocument.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XmlDocument.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XmlSerializer.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XPath.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Unity.Abstractions.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Unity.Container.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Unity.Mvc5.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\WebActivatorEx.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Unity.Abstractions.pdb
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\Unity.Container.pdb
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.Migrations.AddBookCount.resources
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.pdb
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.dll.config
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\PagedList.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\PagedList.Mvc.dll
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\PagedList.xml
+C:\Users\Helen Kravchuk\source\repos\StudentLibrary\StudentLibrary.Web\bin\PagedList.Mvc.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.dll.config
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.pdb
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.exe
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.exe.config
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.rsp
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.exe
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.exe.config
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.rsp
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.AppContext.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Console.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.exe
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.exe.config
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.rsp
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Win32.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\netstandard.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.AppContext.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Collections.Concurrent.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Collections.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Collections.NonGeneric.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Collections.Specialized.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Console.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Data.Common.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Contracts.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Debug.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Process.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.StackTrace.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Tools.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.TraceSource.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Tracing.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Drawing.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Dynamic.Runtime.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.Calendars.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.Extensions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.Compression.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.Compression.ZipFile.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.IsolatedStorage.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.Pipes.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Linq.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Expressions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Parallel.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Queryable.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.Http.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.NameResolution.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.NetworkInformation.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.Ping.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.Requests.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.Security.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.Sockets.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebHeaderCollection.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebSockets.Client.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebSockets.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.ObjectModel.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.Extensions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Resources.Reader.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Resources.ResourceManager.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Resources.Writer.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Extensions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Handles.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.InteropServices.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Numerics.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Json.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Claims.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Csp.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.Principal.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Security.SecureString.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Text.Encoding.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Text.Encoding.Extensions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Text.RegularExpressions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Overlapped.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Thread.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.ThreadPool.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Timer.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.ValueTuple.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Xml.ReaderWriter.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XDocument.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XmlDocument.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XmlSerializer.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XPath.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XPath.XDocument.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Antlr3.Runtime.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Newtonsoft.Json.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Owin.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\PagedList.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\PagedList.Mvc.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Helpers.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Mvc.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Optimization.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Razor.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Unity.Abstractions.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Unity.Container.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Unity.Mvc5.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\WebActivatorEx.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\WebGrease.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.pdb
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.dll.config
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\PagedList.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\PagedList.Mvc.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Helpers.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Mvc.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Razor.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\System.Web.Optimization.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Newtonsoft.Json.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Unity.Abstractions.pdb
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Unity.Container.pdb
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Antlr3.Runtime.pdb
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csprojAssemblyReference.cache
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.Migrations.Initialize_database.resources
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.Migrations.AddBookCount.resources
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.GenerateResource.cache
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.CopyComplete
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.dll
+C:\Users\alexb\OneDrive\Desktop\CorseWork\CorseWork\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.pdb
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.dll.config
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.Web.pdb
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.exe
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.exe.config
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\csc.rsp
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.exe
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.exe.config
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\csi.rsp
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.Managed.Core.targets
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.AppContext.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Console.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Compression.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.IO.Pipes.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Claims.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.ValueTuple.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XPath.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.exe
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.exe.config
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\vbc.rsp
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\VBCSCompiler.exe
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Win32.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\netstandard.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.AppContext.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Collections.Concurrent.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Collections.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Collections.NonGeneric.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Collections.Specialized.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.EventBasedAsync.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.ComponentModel.TypeConverter.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Console.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Data.Common.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Contracts.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Debug.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.FileVersionInfo.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Process.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.StackTrace.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Tools.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.TraceSource.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Diagnostics.Tracing.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Drawing.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Dynamic.Runtime.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.Calendars.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Globalization.Extensions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.Compression.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.Compression.ZipFile.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.DriveInfo.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.FileSystem.Watcher.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.IsolatedStorage.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.MemoryMappedFiles.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.Pipes.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.IO.UnmanagedMemoryStream.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Linq.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Expressions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Parallel.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Linq.Queryable.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.Http.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.NameResolution.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.NetworkInformation.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.Ping.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.Requests.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.Security.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.Sockets.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebHeaderCollection.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebSockets.Client.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Net.WebSockets.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.ObjectModel.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.Extensions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Reflection.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Resources.Reader.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Resources.ResourceManager.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Resources.Writer.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Extensions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Handles.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.InteropServices.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Numerics.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Formatters.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Json.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.Serialization.Xml.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Claims.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Algorithms.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Csp.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Encoding.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.Primitives.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Cryptography.X509Certificates.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.Principal.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Security.SecureString.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Text.Encoding.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Text.Encoding.Extensions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Text.RegularExpressions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Overlapped.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Parallel.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Thread.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.ThreadPool.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Timer.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.ValueTuple.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Xml.ReaderWriter.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XDocument.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XmlDocument.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XmlSerializer.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XPath.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Xml.XPath.XDocument.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Antlr3.Runtime.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.SqlServer.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Newtonsoft.Json.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Owin.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\PagedList.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\PagedList.Mvc.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Extensions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Helpers.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Mvc.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Optimization.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Razor.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Deployment.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Razor.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Unity.Abstractions.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Unity.Container.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Unity.Mvc5.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\WebActivatorEx.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\WebGrease.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.pdb
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\StudentLibrary.dll.config
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\EntityFramework.SqlServer.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\PagedList.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\PagedList.Mvc.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Threading.Tasks.Extensions.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Helpers.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Mvc.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Razor.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Deployment.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.WebPages.Razor.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\System.Web.Optimization.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Newtonsoft.Json.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Unity.Abstractions.pdb
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Unity.Container.pdb
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Antlr3.Runtime.pdb
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Helpers.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Mvc.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Razor.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\bin\ru\System.Web.Optimization.resources.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csprojAssemblyReference.cache
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.Migrations.Initialize_database.resources
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.Migrations.AddBookCount.resources
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.GenerateResource.cache
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.CoreCompileInputs.cache
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.csproj.CopyComplete
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.dll
+E:\KPI\5sem\#\lab3\StudentLibrary\StudentLibrary.Web\obj\Debug\StudentLibrary.Web.pdb

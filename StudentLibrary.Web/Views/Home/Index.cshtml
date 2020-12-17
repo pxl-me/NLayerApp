@@ -1,0 +1,100 @@
+﻿@model PagedList.IPagedList<StudentLibrary.Models.Document>
+@using PagedList.Mvc
+
+<h3><strong>Hello, @User.Identity.Name!</strong></h3>
+<h4><strong>Documents</strong></h4>
+@{
+    if (@ViewBag.BookCount == 4)
+    {
+        <p style="color:red">@ViewBag.Check</p>
+    }
+
+}
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-inputs">
+            <div class="form-group">
+                <div class="col-md-10">
+                    Find by title or author: @Html.TextBox("searchString", ViewBag.CurrentFilter as String, new { @class = "form-control" })
+
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Search" class="btn btn-info" />
+            </div>
+        </div>
+    </div>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.ActionLink("Name", "Index", new { sortOrder = ViewBag.TitleSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Author", "Index", new { sortOrder = ViewBag.AuthorSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="@item.Id">
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
+                @{
+                    if (@ViewBag.BookCount < 4)
+                    {
+                        @Ajax.ActionLink("Take", "TakeDoc", new { id = item.Id }, new AjaxOptions
+                               {
+                                  HttpMethod = "POST",
+                                  Confirm = "Are you sure to take this document?",
+                                  OnComplete = string.Format("DeleteInTable()")
+                               },
+                                  new { @class = "btn btn-info" })
+                    }
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index",
+        new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter , @class="btn btn-info"}))
+</div>
+
+<script>
+
+    function DeleteInTable() {
+        window.location.reload();
+    }
+</script>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/scripts/jquery-1.9.1.js")
+    @Scripts.Render("~/scripts/jquery-1.9.1.min.js")
+    @Scripts.Render("~/scripts/jquery.unobtrusive-ajax.js")
+    @Scripts.Render("~/bundles/jquery")
+}
+
+<style>
+    body {
+        background-image: url(../../img/wall.png);
+        background-size: 100%;
+    }
+</style>

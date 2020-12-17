@@ -1,0 +1,43 @@
+﻿@model StudentLibrary.Models.Document
+
+<div>
+    <h4>Document Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Author)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Author)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-info" }) 
+    @Html.ActionLink("Back to List", "GetDocuments", null, new { @class = "btn btn-info" })
+</p>
+
+<style>
+    body {
+        background-image: url(../../img/wall.png);
+        background-size: 100%;
+    }
+</style>
